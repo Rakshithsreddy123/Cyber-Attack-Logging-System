@@ -81,27 +81,27 @@ python blockchain.py
 The application detects cyber attack events, records them securely on the blockchain, and generates alerts while maintaining an immutable audit log.
 
 Metamask Wallet
-<img width="848" height="316" alt="image" src="https://github.com/user-attachments/assets/85ac981e-485a-4bd4-bb19-e64d27b22d16" />
+<img width="470" height="406" alt="image" src="https://github.com/user-attachments/assets/306f93dc-198a-4ce3-8e9f-09b1353fa164" />
 
 ---
 
 Smart Contract code using Solidity
-<img width="577" height="373" alt="image" src="https://github.com/user-attachments/assets/63442010-edc4-4508-aa35-cca2bbb04dfc" />
+<img width="527" height="341" alt="image" src="https://github.com/user-attachments/assets/375f2b47-71c9-43e3-a513-8243a01fe2f0" />
 
 ---
 
 Storing the logs onto the chain
-<img width="665" height="259" alt="image" src="https://github.com/user-attachments/assets/a71b94c3-5d73-418d-be84-3ca4f12064e8" />
+<img width="527" height="341" alt="image" src="https://github.com/user-attachments/assets/5e3e782a-7517-46d3-a2c3-79d24831a90a" />
 
 ---
 
 Verifying the Logs for Tamper Detection(Untampered)
-<img width="665" height="259" alt="image" src="https://github.com/user-attachments/assets/66fe45db-e894-4466-a36e-84eeb214d7d3" />
+<img width="635" height="249" alt="image" src="https://github.com/user-attachments/assets/b795d3e2-a57a-47aa-8c8a-5d9eec984543" />
 
 ---
 
 Verifying the Logs for Tamper Detection(Tampered)
-<img width="665" height="259" alt="image" src="https://github.com/user-attachments/assets/3994d974-f95f-4b94-9ecb-948d52ea90f6" />
+<img width="635" height="238" alt="image" src="https://github.com/user-attachments/assets/57a6918c-c72c-4fab-b48e-4ba60045c088" />
 
 ---
 
