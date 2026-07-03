@@ -98,7 +98,7 @@ The application detects cyber attack events, records them securely on the blockc
 
 #### 📸 Storing the logs onto the chain
 <p align="center">
-  <img width="527" height="341" alt="image" src="https://github.com/user-attachments/assets/5e3e782a-7517-46d3-a2c3-79d24831a90a" />
+  <img width="617" height="241" alt="image" src="https://github.com/user-attachments/assets/28290687-2080-4b07-afe8-0ffb37fb8e3a" />
 </p>
 
 ---
