@@ -83,32 +83,25 @@ The application detects cyber attack events, records them securely on the blockc
 Metamask Wallet
 <img width="470" height="406" alt="image" src="https://github.com/user-attachments/assets/306f93dc-198a-4ce3-8e9f-09b1353fa164" />
 
----
-
 Smart Contract code using Solidity
 <img width="527" height="341" alt="image" src="https://github.com/user-attachments/assets/375f2b47-71c9-43e3-a513-8243a01fe2f0" />
 
----
 
 Storing the logs onto the chain
 <img width="527" height="341" alt="image" src="https://github.com/user-attachments/assets/5e3e782a-7517-46d3-a2c3-79d24831a90a" />
 
----
 
 Verifying the Logs for Tamper Detection(Untampered)
 <img width="635" height="249" alt="image" src="https://github.com/user-attachments/assets/b795d3e2-a57a-47aa-8c8a-5d9eec984543" />
 
----
 
 Verifying the Logs for Tamper Detection(Tampered)
 <img width="635" height="238" alt="image" src="https://github.com/user-attachments/assets/57a6918c-c72c-4fab-b48e-4ba60045c088" />
 
----
 
 Log generation and storage on the Smart Contract
 <img width="605" height="225" alt="image" src="https://github.com/user-attachments/assets/4875d068-52a4-4e17-9168-d5dcafcf6c5b" />
 
----
 
 ## 🔮 Future Enhancements
 
