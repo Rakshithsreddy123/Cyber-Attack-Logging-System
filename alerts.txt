@@ -1,0 +1,3 @@
+[2026-04-16 13:22:59.508707] TAMPERING DETECTED: IP: 192.168.2.1 | Attack: Brute Force | Severity: Low
+[2026-05-12 11:47:02.766979] TAMPERING DETECTED: IP: 102.168.1.1 | Attack: Brute Force | Severity: High
+[2026-05-12 11:48:06.206664] TAMPERING DETECTED: IP: 192.168.1.1 | Attack: Brute Force | Severity: Medium
