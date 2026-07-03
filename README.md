@@ -86,42 +86,42 @@ The application detects cyber attack events, records them securely on the blockc
 
 <p align="center">
   <img width="470" height="406" alt="image" src="https://github.com/user-attachments/assets/306f93dc-198a-4ce3-8e9f-09b1353fa164" />
-  <p align="center">Metamask Wallet</p>
+  <p align="center">Fig: Metamask Wallet</p>
 </p>
 
 ---
 
 <p align="center">
   <img width="527" height="341" alt="image" src="https://github.com/user-attachments/assets/375f2b47-71c9-43e3-a513-8243a01fe2f0" />
-  <p align="center">Smart Contract code using Solidity</p>
+  <p align="center">Fig: Smart Contract code using Solidity</p>
 </p>
 
 --- 
 
 <p align="center">
   <img width="617" height="241" alt="image" src="https://github.com/user-attachments/assets/28290687-2080-4b07-afe8-0ffb37fb8e3a" />
-  <p align="center">Storing the logs onto the chain</p>
+  <p align="center">Fig: Storing the logs onto the chain</p>
 </p>
 
 ---
 
 <p align="center">
   <img width="635" height="249" alt="image" src="https://github.com/user-attachments/assets/b795d3e2-a57a-47aa-8c8a-5d9eec984543" />
-  <p align="center">Verifying the Logs for Tamper Detection(Untampered)</p>
+  <p align="center">Fig: Verifying the Logs for Tamper Detection(Untampered)</p>
 </p>
 
 --- 
 
 <p align="center">
   <img width="635" height="238" alt="image" src="https://github.com/user-attachments/assets/57a6918c-c72c-4fab-b48e-4ba60045c088" />
-  <p align="center">Verifying the Logs for Tamper Detection(Tampered)</p>
+  <p align="center">Fig: Verifying the Logs for Tamper Detection(Tampered)</p>
 </p>
 
 ---
 
 <p align="center">
   <img width="605" height="225" alt="image" src="https://github.com/user-attachments/assets/4875d068-52a4-4e17-9168-d5dcafcf6c5b" />
-  <p align="center">Log generation and storage on the Smart Contract</p>
+  <p align="center">Fig: Log generation and storage on the Smart Contract</p>
 </p>
 
 ---
