@@ -80,28 +80,32 @@ python blockchain.py
 
 The application detects cyber attack events, records them securely on the blockchain, and generates alerts while maintaining an immutable audit log.
 
-<img width="637" height="549" alt="image" src="https://github.com/user-attachments/assets/de524321-dd5e-45a3-ad0e-3c25d7b74d8c" />
+<img width="848" height="316" alt="image" src="https://github.com/user-attachments/assets/85ac981e-485a-4bd4-bb19-e64d27b22d16" />
 Metamask Wallet
 
 ---
 
-<img width="675" height="436" alt="image" src="https://github.com/user-attachments/assets/33ddc93c-6c86-4fce-af74-a08c2d8775c7" />
+<img width="577" height="373" alt="image" src="https://github.com/user-attachments/assets/63442010-edc4-4508-aa35-cca2bbb04dfc" />
 Smart Contract code using Solidity
 
 ---
 
-<img width="851" height="332" alt="image" src="https://github.com/user-attachments/assets/2b7f967f-addd-46b6-83e7-cb5592402b7a" />
+<img width="665" height="259" alt="image" src="https://github.com/user-attachments/assets/a71b94c3-5d73-418d-be84-3ca4f12064e8" />
 Storing the logs onto the chain
 
 ---
 
-<img width="852" height="333" alt="image" src="https://github.com/user-attachments/assets/0427cc8c-d11a-42be-861e-1dd3bd0e3c27" />
+<img width="665" height="259" alt="image" src="https://github.com/user-attachments/assets/66fe45db-e894-4466-a36e-84eeb214d7d3" />
 Verifying the Logs for Tamper Detection(Untampered)
 
-<img width="863" height="333" alt="image" src="https://github.com/user-attachments/assets/803debf0-91c0-4604-a770-6d6f3b7484de" />
+---
+
+<img width="665" height="259" alt="image" src="https://github.com/user-attachments/assets/3994d974-f95f-4b94-9ecb-948d52ea90f6" />
 Verifying the Logs for Tamper Detection(Tampered)
 
-<img width="848" height="316" alt="image" src="https://github.com/user-attachments/assets/23eceff0-4f0d-4ffc-89b4-411808962e0c" />
+---
+
+<img width="605" height="225" alt="image" src="https://github.com/user-attachments/assets/4875d068-52a4-4e17-9168-d5dcafcf6c5b" />
 Log generation and storage on the Smart Contract
 
 ---
